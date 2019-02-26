@@ -8,6 +8,7 @@ It gets new information from the remote server.
 Task 2:
 
 // Under this line describe why we need to run 'git push' after making a commit
+To push the new commit, which will sync the local git repo with the Github.
 
 Task 3:
 
